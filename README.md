@@ -76,3 +76,6 @@ See also the list of [contributors](https://github.com/HigorCervelin/stalker/con
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
+[![Run on Repl.it](https://repl.it/badge/github/HigorLoren/stalker)](https://repl.it/github/HigorLoren/stalker)
